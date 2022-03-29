@@ -1,3 +1,24 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    background-color:#E5E5E5;
+    color:#212121;
+}
+/* вторичній цвет фона F5F4FA */
+/* logo */
+.logo {
+color:#2196F3;
+}
+.logo-black {
+    color: #000000;
+}
+/* site nav */
+.site-nav.link {
+ color: #212121;
+}
+.site-nav.link:hover,
+.site-nav.link:focus {
+ color:#2196F3 ;
+}
+.sitebar:hover,
+.sitebar:focus{
+    color: tomato;
 }
